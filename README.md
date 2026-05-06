@@ -43,6 +43,10 @@ The features selection was executed separately for each model instead of using t
 I first used. I did this because I wanted to manage the computational cost of each model. This led me to get
 complete results from all the models in less time.
 
+The desired output was not shown in the Python file due to my choice of testing each model separtely 
+due to the really long runtime when trying to use all five. If the program is executed and the programmer 
+has a lot of patience, the desired output should be displayed.
+
 ## 6. Reproduction
 Python 3.12
 Libraries: pandas, numpy, sklearn, ucimlrepo
